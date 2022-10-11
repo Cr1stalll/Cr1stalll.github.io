@@ -20,14 +20,14 @@
 		<br>
 		<table border="1">
 			<tr>
-				<td><a href="./html/ch02/task1.html"></a>ch02</td>
+				<td><a href="./html/ch02/task1.html">ch02</a></td>
 			</tr>
 		</table>
 		<br>
 		<br>
 		<table border="1">
 			<tr>
-				<td><a href="./html/ch03/task-a.html"></a>ch03-a</td>
+				<td><a href="./html/ch03/task-a.html">ch03-a</a></td>
 				<td>ch03-b</td>
 				<td>ch03-c</td>
 				<td>ch03-d</td>
