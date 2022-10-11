@@ -3,11 +3,18 @@
 	<head>
 		<meta charset="utf-8">
 		<title></title>
+		<style>
+			.middle{
+				width: 550px;
+				height: 1000px;
+				margin: 0px auto;
+			}
+		</style>
 	</head>
 	<body>
-		<h1 style="text-align: center;">Welcome to my website!</h1>
-		<br>
-		<table border="1">
+		<h1 style="text-align: center;">Welcome to my website!</h1><br>
+		<div class="middle">
+			<table border="1">
 			<caption>Experiment-1</caption>
 			<tr>
 				<td width="100" style="text-align: center;"><a href="./html/ch01/a.html">ch01-a</a></td>
@@ -37,5 +44,6 @@
 				<td width="100" style="text-align: center;">ch03-e</td>
 			</tr>
 		</table>
+		</div>
 	</body>
 </html>
