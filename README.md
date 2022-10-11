@@ -5,7 +5,7 @@
 		<title></title>
 	</head>
 	<body>
-		<h1>Welcome to my website!</h1>
+		<h1 style="text-align: center;">Welcome to my website!</h1>
 		<br>
 		<table border="1">
 			<tr>
