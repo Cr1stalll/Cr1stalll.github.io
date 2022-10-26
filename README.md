@@ -17,7 +17,7 @@
 			<table border="1">
 			<caption>Experiment-1</caption>
 			<tr>
-				<td width="100" style="text-align: center;"><a href="../html/ch01/a.html">ch01-a</a></td>
+				<td width="100" style="text-align: center;"><a href="Cr1stalll.github.io/html/ch01/a.html">ch01-a</a></td>
 				<td width="100" style="text-align: center;"><a href="../html/ch01/b.html">ch01-b</a></td>
 				<td width="100" style="text-align: center;"><a href="../html/ch01/c.html">ch01-c</a></td>
 				<td width="100" style="text-align: center;"><a href="../html/ch01/d.html">ch01-d</a></td>
