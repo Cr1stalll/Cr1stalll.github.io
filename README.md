@@ -49,7 +49,7 @@
 		<table border="1">
 			<caption>Experiment-4</caption>
 			<tr>
-				<td width="100" style="text-align: center;">ch04</td>
+				<td width="100" style="text-align: center;"><a href="html/ch04">ch04</a></td>
 			</tr>
 		</table>
 		</div>
