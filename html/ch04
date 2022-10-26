@@ -30,11 +30,11 @@
 	}
 	</script>
 
-    <script type="text/javascript" src="webgl-utils.js"></script>
-    <script type="text/javascript" src="initShaders.js"></script>
-    <script type="text/javascript" src="gl-matrix-min.js"></script>
+    <script type="text/javascript" src="js/ch04/webgl-utils.js"></script>
+    <script type="text/javascript" src="js/ch04/initShaders.js"></script>
+    <script type="text/javascript" src="js/ch04/gl-matrix-min.js"></script>
 
-    <script type="text/javascript" src="rot.js"></script>
+    <script type="text/javascript" src="js/ch04/rot.js"></script>
 </head>
 
 <body onload="initRotSquare()">
