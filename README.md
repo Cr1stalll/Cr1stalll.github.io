@@ -29,7 +29,7 @@
 		<table border="1">
 			<caption>Experiment-2</caption>
 			<tr>
-				<td width="100" style="text-align: center;"><a href="../html/ch02/task1.html"></a>ch02</td>
+				<td width="100" style="text-align: center;"><a href="../html/ch02/task1.html">ch02</a></td>
 			</tr>
 		</table>
 		<br>
@@ -37,7 +37,7 @@
 		<table border="1">
 			<caption>Experiment-3</caption>
 			<tr>
-				<td width="100" style="text-align: center;"><a href="../html/ch03/task-a.html"></a>ch03-a</td>
+				<td width="100" style="text-align: center;"><a href="../html/ch03/task-a.html">ch03-a</a></td>
 				<td width="100" style="text-align: center;">ch03-b</td>
 				<td width="100" style="text-align: center;">ch03-c</td>
 				<td width="100" style="text-align: center;">ch03-d</td>
