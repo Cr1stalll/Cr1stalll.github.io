@@ -224,6 +224,46 @@
             </tbody>
         </table>
         <br>
+        <h2>Experiment8</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch05/rotcube.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment9</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch05/rotcube.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
         <h2>Final</h2>
         <table>
             <thead>
