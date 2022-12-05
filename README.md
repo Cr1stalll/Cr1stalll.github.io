@@ -42,6 +42,9 @@
             width: 300px;
             height: 30px;
         }
+        a:hover{
+            font-size: larger;
+        }
     </style>
 </head>
 <body>
@@ -87,10 +90,10 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EXP-a</td>
-                    <td>EXP-b</td>
-                    <td>EXP-c</td>
-                    <td>EXP-d</td>
+                    <td><a href="./html/ch01/a.html">EXP-a</a></td>
+                    <td><a href="./html/ch01/b.html">EXP-b</a></td>
+                    <td><a href="./html/ch01/c.html">EXP-c</a></td>
+                    <td><a href="./html/ch01/d.html">EXP-d</a></td>
                 </tr>
             </tbody>
         </table>
