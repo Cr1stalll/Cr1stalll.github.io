@@ -130,7 +130,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EXP-a</td>
+                    <td><a href="./ch03/task-a.html">EXP</a></td>
                     <td>EXP-b</td>
                     <td>EXP-c</td>
                     <td>EXP-d</td>
