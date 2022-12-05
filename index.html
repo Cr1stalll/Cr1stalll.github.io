@@ -216,7 +216,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EXP</td>
+                    <td><a href="./html/ch07/demo.html">EXP</a></td>
                     <td></td>
                     <td></td>
                     <td></td>
