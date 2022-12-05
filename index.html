@@ -110,7 +110,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EXP</td>
+                    <td><a href="./ch02/task1.html">EXP</a></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -156,7 +156,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EXP</td>
+                    <td><a href="./ch04/rot.html">EXP</a></td>
                     <td></td>
                     <td></td>
                     <td></td>
