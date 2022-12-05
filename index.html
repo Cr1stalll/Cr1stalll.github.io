@@ -176,7 +176,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EXP</td>
+                    <td><a href="./html/ch05/rotcube.html">EXP</a></td>
                     <td></td>
                     <td></td>
                     <td></td>
