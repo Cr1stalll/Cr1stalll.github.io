@@ -236,7 +236,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><a href="./html/ch05/rotcube.html">EXP</a></td>
+                    <td><a href="./html/ch09/light.html">EXP</a></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -256,7 +256,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><a href="./html/ch05/rotcube.html">EXP</a></td>
+                    <td><a href="./html/ch10/texture.html">EXP</a></td>
                     <td></td>
                     <td></td>
                     <td></td>
