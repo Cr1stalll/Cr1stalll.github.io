@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <!-- 定义样式 -->
+    <style>
+        .middle{
+            width: 800px;
+            height: 500px;
+            margin-left: 20%;
+        }
+        .clock{
+            margin-left: 85%;
+        }
+        h1{
+            text-align: center;
+            font-style: italic;
+        }
+        table{
+            border-collapse: collapse;
+            border: 1px solid;
+            border-color: rgb(185, 189, 193);
+            text-align: center;
+            width: 400px;
+            height: 30px;
+        }
+        td{
+            border-collapse: collapse;
+            border: 1px solid;
+            border-color: rgb(185, 189, 193);
+            text-align: center;
+            width: 300px;
+            height: 30px;
+            background-color: rgb(241, 238, 238);
+        }
+        th{
+            border-collapse: collapse;
+            border: 1px solid;
+            border-color: rgb(185, 189, 193);
+            text-align: center;
+            width: 300px;
+            height: 30px;
+        }
+        a:hover{
+            font-size: larger;
+        }
+    </style>
+</head>
+<body>
+    <!-- 定义函数 -->
+    <script type="text/javascript">
+        function getDate(){
+            var d = new Date();
+            var year = d.getFullYear();
+            var month = d.getMonth()+1;
+            var date = d.getDate();
+                //document.write(year+"年"+month+"月"+date+"日"); 
+                return year+"年"+month+"月"+date+"日"
+            }
+        function getTime(){
+            var t=new Date();
+            var hour=t.getHours();
+            var minutie=t.getMinutes();
+            var second=t.getSeconds();
+                //document.write(hour+"时" +minutie+"分" +second+"秒") 
+                return hour+"时" +minutie+"分" +second+"秒"
+            }
+
+        function showDate(){
+            document.querySelector(".clock").innerText = getDate()+getTime()
+        }
+        setInterval(() => {
+            showDate()
+        }, 1000);
+
+    </script>
+    <div class="clock"></div>
+    <div class="middle">
+        <h1>Welcome to my website</h1>
+        <h2>Experiment1</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch01/a.html">EXP-a</a></td>
+                    <td><a href="./html/ch01/b.html">EXP-b</a></td>
+                    <td><a href="./html/ch01/c.html">EXP-c</a></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment2</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/dist2/index.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment3</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch03/task-a.html">EXP</a></td>
+                    <td>EXP-b</td>
+                    <td>EXP-c</td>
+                    <td>EXP-d</td>
+                </tr>
+                <tr>
+                    <td>EXP-e</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment4</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch04/rot.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment5</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch05/rotcube.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment6</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>EXP</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment7</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/ch07/demo.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment8</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/dist1/index.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Experiment9</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/dist/index.html">EXP</a></td>
+                    <td><a href="./html/dist3/index.html">HDR texture</a></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <h2>Final</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                    <th> </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="./html/final/final.html">EXP</a></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
